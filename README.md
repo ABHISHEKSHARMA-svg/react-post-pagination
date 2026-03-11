@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Post Cards Pagination App
 
 A React-based web application that displays posts in card format with pagination and card removal functionality.
@@ -37,3 +38,7 @@ https://jsonplaceholder.typicode.com/posts
 ---
 
 # Project Structure
+=======
+# react-post-pagination
+React post card pagination project
+>>>>>>> bd1fe013e019584ddc6ade8e862d1570daec903b
